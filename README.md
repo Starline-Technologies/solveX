@@ -1,5 +1,5 @@
 # solveX
-# AI Calculator
+
 This is a Python script that allows the user to draw a mathematical expression on a canvas using their mouse, and then convert it to text using OCR (Optical Character Recognition) to solve the expression.
 ### Authors
 - [Asher V Cherish](https://github.com/AsherVC)
