@@ -33,3 +33,9 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ### Screenshots
 ![Screenshot 2023-04-26 224113](https://user-images.githubusercontent.com/67820811/234653923-afe0089d-7038-4114-9580-29ecacb58a60.png)
 ![Screenshot 2023-04-26 224008](https://user-images.githubusercontent.com/67820811/234653935-972a8c66-2134-4a37-a8df-2d6934523d50.png)
+
+### Calculator Design
+![318446f1-072b-4d10-a466-a1c0f3370b4c](https://github.com/AsherVC/solveX/assets/89779612/a12fe42e-9f3c-433e-a4a3-e25f0201bd05)
+
+AI generated image
+
