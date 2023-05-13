@@ -1,11 +1,7 @@
 # solveX
 
 This is a Python script that allows the user to draw a mathematical expression on a canvas using their mouse, and then convert it to text using OCR (Optical Character Recognition) to solve the expression.
-### Authors
-- [Asher V Cherish](https://github.com/AsherVC)
-- [Aleena Maria](https://github.com/prettycoolvariables) 
-- [Elizabeth Aji](https://github.com/EGi-07)
-- [Jebin Shaju](https://www.github.com/jebinshaju)
+
 ## Getting Started
 ### Prerequisites
 To run this script, you will need the following software installed on your computer:
